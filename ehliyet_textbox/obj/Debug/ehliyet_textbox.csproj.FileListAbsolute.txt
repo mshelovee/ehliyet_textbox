@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\bin\Debug\ehliyet_textbox.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\bin\Debug\ehliyet_textbox.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\bin\Debug\ehliyet_textbox.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\ehliyet_textbox\ehliyet_textbox\obj\Debug\ehliyet_textbox.pdb
